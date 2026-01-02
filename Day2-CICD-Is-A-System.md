@@ -268,8 +268,3 @@ AI doesn’t replace engineers — it reduces cognitive load.
 ---
 
 ⭐ Star the repository if this helped and continue the series.
-
-```
-
-When ready, say **“Day 3 md”** and we’ll go deep into **Kubernetes failures, YAML, and cost leaks** 🔥
-```
