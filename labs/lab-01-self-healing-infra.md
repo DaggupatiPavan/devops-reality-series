@@ -134,7 +134,3 @@ Think about how this changes in cloud-native environments:
 ## Key Learning
 
 > If recovery requires a human, automation is incomplete.
-
-
-Just tell me 👍
-```
