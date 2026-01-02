@@ -268,9 +268,7 @@ Tools are implementation details. Platforms define developer experience.
 
 ⭐ Star the repository if this helped and follow the series.
 
-```
-```
 Next, I strongly recommend:
 ➡️ **Day 2 – CI/CD as a System (hands-on)**  
 ➡️ Add a `/labs` folder for exercises  
-```
+
