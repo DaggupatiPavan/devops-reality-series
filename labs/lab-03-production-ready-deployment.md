@@ -183,5 +183,3 @@ Try these:
 ## Key Learning
 
 > Kubernetes reliability and cost efficiency are defined by YAML quality, not cluster size.
-Just say **“Day 4 lab”** and we’ll continue 🚀
-```
